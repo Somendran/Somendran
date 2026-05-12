@@ -40,10 +40,12 @@ I love to explore new tools and tech whilst building projects around them. My wo
 
 | Project | What it is | Stack / Focus |
 | --- | --- | --- |
-| [BizKuKu - PayHack 2025 Champion](https://github.com/Shawnchee/BizKuKu-PayHack2025-Champion) | An all-in-one digital platform for Malaysian MSMEs, covering onboarding, business management, OpenFinance dashboards, and growth workflows. | TypeScript, fintech, dashboards |
-| [Enterprise RAG Assistant](https://github.com/Somendran/enterprise-rag-assistant) | A retrieval-augmented assistant project focused on enterprise knowledge workflows. | Python, AI, RAG |
-| [Real-Time E-commerce Analytics System](https://github.com/Somendran/Real-Time-E-commerce-Analytics-System) | A real-time analytics project for e-commerce data processing and insight generation. | Python, data, analytics |
-| [InsureScan](https://github.com/johnnytan5/InsureScan) | An insurance-focused scanning and analysis project built with a product-oriented workflow. | TypeScript, full stack |
+| [Enterprise RAG Assistant](https://github.com/Somendran/enterprise-rag-assistant) | Retrieval-Augmented Generation assistant for uploading PDFs, indexing knowledge, asking grounded questions, and reviewing retrieved source context. | Python, FastAPI, React, RAG, FAISS |
+| [Real-Time E-commerce Analytics System](https://github.com/Somendran/Real-Time-E-commerce-Analytics-System) | End-to-end data engineering, BI, and ML analytics system using Olist e-commerce data, Supabase PostgreSQL, FastAPI, and a Next.js dashboard. | Python, FastAPI, Supabase, Next.js, XGBoost |
+| [BizKuKu - PayHack 2025 Champion](https://github.com/Somendran/BizKuKu-PayHack2025-Champion) | All-in-one digital platform helping Malaysian MSMEs onboard, manage, and scale through OpenFinance dashboards and business workflows. | TypeScript, fintech, dashboards |
+| [Buddyku](https://github.com/Somendran/Buddyku) | Full-stack mental health app for guided journaling, mood tracking, memory management, and compassionate AI emotional support. | TypeScript, AI chatbot, full stack |
+| [InsureKan](https://github.com/Somendran/InsureKan) | Insurance claim processing platform with a Python FastAPI backend, Next.js frontend, Supabase database, and AI-assisted document processing. | FastAPI, Next.js, Supabase, OpenAI |
+| [WInTheChat](https://github.com/Somendran/WInTheChat) | Intelligent trading analyst that combines real-time market analysis, AI coaching, fact-checking, and personalized trading workflows. | FastAPI, LangGraph, Supabase, Gemini |
 
 ## Tech Stack
 
@@ -82,7 +84,7 @@ I love to explore new tools and tech whilst building projects around them. My wo
 
 - Profile: [github.com/Somendran](https://github.com/Somendran)
 - Main languages across featured work: Python, TypeScript, and SQL.
-- Project focus: AI assistants, analytics systems, data pipelines, fintech dashboards, and full-stack product builds.
+- Project focus: AI assistants, analytics systems, data pipelines, fintech dashboards, healthtech, trading tools, and full-stack product builds.
 
 <div align="center">
 
