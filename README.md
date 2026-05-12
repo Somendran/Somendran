@@ -4,6 +4,8 @@
 
 ### AI Full-Stack Developer | Fresh Graduate | Data + AI + Web Builder
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=AI+Full-Stack+Developer;Data+%2B+AI+%2B+Web+Builder;RAG+%7C+Analytics+%7C+Full-Stack+Apps;Fresh+Graduate+Looking+for+Opportunities" alt="Typing SVG" />
+
 [![GitHub](https://img.shields.io/badge/GitHub-Somendran-181717?style=for-the-badge&logo=github)](https://github.com/Somendran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Somendran%20Sunder-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/somendransunder/)
 [![Email](https://img.shields.io/badge/Email-Somendran737%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Somendran737@gmail.com)
@@ -72,6 +74,12 @@ I love to explore new tools and tech whilst building projects around them. My wo
 - Profile: [github.com/Somendran](https://github.com/Somendran)
 - Main languages across featured work: Python, TypeScript, and SQL.
 - Project focus: AI assistants, analytics systems, data pipelines, fintech dashboards, and full-stack product builds.
+
+<div align="center">
+
+![GitHub contribution snake](https://raw.githubusercontent.com/Somendran/Somendran/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ## Connect
 
