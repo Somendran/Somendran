@@ -36,33 +36,42 @@ I love to explore new tools and tech whilst building projects around them. My wo
 
 ## Tech Stack
 
-**Full Stack**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**AI + Data**
+**Core Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/SQL%20%2F%20Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-7C3AED?style=flat-square)
-![AI](https://img.shields.io/badge/AI-Practical%20LLM%20Apps-FF6F00?style=flat-square)
-
-**Tools**
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+| Area | Relevant Tools & Concepts |
+| --- | --- |
+| Frontend | React.js, Next.js 15, Tailwind CSS |
+| Backend | FastAPI, REST APIs, microservice-oriented API design |
+| Databases & Cloud Data | PostgreSQL, Supabase, Firebase, BigQuery, Google Cloud Storage, DynamoDB |
+| Data Engineering | ETL/ELT pipelines, data cleaning, batch processing, data validation, Apache Airflow, dbt Core, GitHub Actions |
+| Data Analysis & BI | EDA, Power BI, Excel, dashboards, KPI development, DAX, star schema modeling, segmentation, cohort analysis, churn analysis |
+| Machine Learning | PyTorch, TensorFlow, Keras, XGBoost, regression, classification, time series forecasting |
+| Computer Vision | OpenCV, YOLO, image segmentation, object detection, sliced inference |
+| LLM & Retrieval | RAG, LangChain, OpenAI API, Gemini API, AWS Bedrock, context grounding, prompt orchestration, semantic memory |
+| DevOps & Tools | Docker, Git, GitHub, GitHub Actions |
 
 ## GitHub Snapshot
 
 - Profile: [github.com/Somendran](https://github.com/Somendran)
-- Main languages across featured work: TypeScript and Python.
-- Project focus: AI assistants, analytics systems, fintech dashboards, and full-stack product builds.
+- Main languages across featured work: Python, TypeScript, and SQL.
+- Project focus: AI assistants, analytics systems, data pipelines, fintech dashboards, and full-stack product builds.
 
 ## Connect
 
