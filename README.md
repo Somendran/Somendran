@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:22C55E,100:A78BFA&height=180&section=header&text=Somendran%20%7C%20Somen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Full-Stack%20Developer%20%7C%20Data%20%2B%20AI%20%2B%20Web%20Builder&descSize=16&descAlignY=58" alt="Somendran profile header" width="100%" />
-
 # Hi, I'm Somendran
 
 ### You can call me Somen too
