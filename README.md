@@ -2,6 +2,8 @@
 
 # Hi, I'm Somendran
 
+### You can call me Somen too
+
 ### AI Full-Stack Developer | Fresh Graduate | Data + AI + Web Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=AI+Full-Stack+Developer;Data+%2B+AI+%2B+Web+Builder;RAG+%7C+Analytics+%7C+Full-Stack+Apps;Fresh+Graduate+Looking+for+Opportunities" alt="Typing SVG" />
