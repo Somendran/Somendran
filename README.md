@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:22C55E,100:A78BFA&height=180&section=header&text=Somendran%20%7C%20Somen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Full-Stack%20Developer%20%7C%20Data%20%2B%20AI%20%2B%20Web%20Builder&descSize=16&descAlignY=58" alt="Somendran profile header" width="100%" />
+
 # Hi, I'm Somendran
 
 ### You can call me Somen too
@@ -7,6 +9,8 @@
 ### AI Full-Stack Developer | Fresh Graduate | Data + AI + Web Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=AI+Full-Stack+Developer;Data+%2B+AI+%2B+Web+Builder;RAG+%7C+Analytics+%7C+Full-Stack+Apps;Fresh+Graduate+Looking+for+Opportunities" alt="Typing SVG" />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="360" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Somendran-181717?style=for-the-badge&logo=github)](https://github.com/Somendran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Somendran%20Sunder-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/somendransunder/)
@@ -23,11 +27,15 @@
 
 I love to explore new tools and tech whilst building projects around them. My work usually sits around practical AI, data-driven systems, and full-stack applications that turn ideas into usable products.
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:22C55E&height=2&section=footer" alt="Section divider" width="100%" />
+
 ## Highlights
 
 - 5-time hackathon winner.
 - Fresh graduate looking for full-stack, data, and AI-focused opportunities.
 - Building across AI assistants, analytics systems, data pipelines, and full-stack products.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:22C55E&height=2&section=footer" alt="Section divider" width="100%" />
 
 ## Current Focus
 
@@ -35,6 +43,8 @@ I love to explore new tools and tech whilst building projects around them. My wo
 - Exploring RAG, analytics dashboards, automation, and full-stack product patterns.
 - Looking for full-stack, data, and AI-focused opportunities.
 - Portfolio: upcoming soon.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:22C55E&height=2&section=footer" alt="Section divider" width="100%" />
 
 ## Featured Projects
 
@@ -46,6 +56,8 @@ I love to explore new tools and tech whilst building projects around them. My wo
 | [Buddyku](https://github.com/Somendran/Buddyku) | Full-stack mental health app for guided journaling, mood tracking, memory management, and compassionate AI emotional support. | TypeScript, AI chatbot, full stack |
 | [InsureKan](https://github.com/Somendran/InsureKan) | Insurance claim processing platform with a Python FastAPI backend, Next.js frontend, Supabase database, and AI-assisted document processing. | FastAPI, Next.js, Supabase, OpenAI |
 | [WInTheChat](https://github.com/Somendran/WInTheChat) | Intelligent trading analyst that combines real-time market analysis, AI coaching, fact-checking, and personalized trading workflows. | FastAPI, LangGraph, Supabase, Gemini |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:22C55E&height=2&section=footer" alt="Section divider" width="100%" />
 
 ## Tech Stack
 
@@ -86,6 +98,8 @@ I love to explore new tools and tech whilst building projects around them. My wo
 | LLM & Retrieval | RAG, LangChain, OpenAI API, Gemini API, AWS Bedrock, context grounding, prompt orchestration, semantic memory |
 | DevOps & Tools | Docker, Git, GitHub, GitHub Actions |
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:22C55E&height=2&section=footer" alt="Section divider" width="100%" />
+
 ## GitHub Snapshot
 
 - Profile: [github.com/Somendran](https://github.com/Somendran)
@@ -97,6 +111,8 @@ I love to explore new tools and tech whilst building projects around them. My wo
 ![GitHub contribution snake](https://raw.githubusercontent.com/Somendran/Somendran/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:22C55E&height=2&section=footer" alt="Section divider" width="100%" />
 
 ## Connect
 
