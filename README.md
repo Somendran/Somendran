@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/profile-banner.svg" alt="Somendran profile banner" width="100%" />
+
 # Hi, I'm Somendran
 
 ### You can call me Somen too
@@ -50,6 +52,12 @@ I love to explore new tools and tech whilst building projects around them. My wo
 ## Tech Stack
 
 **Core Stack**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,fastapi,postgres,supabase,docker,git,github,gcp" alt="Core skill icons" />
+
+</div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)

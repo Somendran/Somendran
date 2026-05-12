@@ -1,0 +1,61 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Somendran profile banner</title>
+  <desc id="desc">A dark terminal-style GitHub profile banner for Somendran, focused on AI, data, and full-stack engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.46" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="90" x2="1080" y2="275" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.52" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22 0 0 0 0 0.74 0 0 0 0 0.97 0 0 0 0.45 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#1F2937" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)" opacity="0.42"/>
+  <path d="M-20 285C138 230 224 309 360 246C496 183 568 90 712 134C856 178 954 103 1228 48" stroke="url(#accent)" stroke-width="3" opacity="0.7" filter="url(#glow)"/>
+  <path d="M-12 318C156 272 260 334 410 287C560 240 660 183 782 205C904 227 990 180 1214 124" stroke="#38BDF8" stroke-width="1.5" opacity="0.35"/>
+
+  <g opacity="0.9">
+    <rect x="72" y="58" width="514" height="244" rx="18" fill="#020617" fill-opacity="0.74" stroke="#334155"/>
+    <circle cx="102" cy="89" r="7" fill="#EF4444"/>
+    <circle cx="126" cy="89" r="7" fill="#F59E0B"/>
+    <circle cx="150" cy="89" r="7" fill="#22C55E"/>
+    <text x="96" y="136" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="22">$ whoami</text>
+    <text x="96" y="178" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="800">Somendran</text>
+    <text x="96" y="214" fill="#38BDF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">AI Full-Stack Developer</text>
+    <text x="96" y="251" fill="#CBD5E1" font-family="Consolas, 'Fira Code', monospace" font-size="20">Data + AI + Web Builder</text>
+  </g>
+
+  <g transform="translate(680 74)">
+    <rect x="0" y="0" width="410" height="52" rx="14" fill="#0B1120" stroke="#1E293B"/>
+    <text x="24" y="34" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">5-time Hackathon Winner</text>
+    <circle cx="364" cy="26" r="10" fill="#22C55E"/>
+    <circle cx="364" cy="26" r="18" stroke="#22C55E" opacity="0.24"/>
+  </g>
+
+  <g transform="translate(680 150)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    <rect x="0" y="0" width="128" height="42" rx="21" fill="#0F172A" stroke="#38BDF8"/>
+    <text x="28" y="27" fill="#BAE6FD">RAG</text>
+    <rect x="148" y="0" width="142" height="42" rx="21" fill="#0F172A" stroke="#22C55E"/>
+    <text x="177" y="27" fill="#BBF7D0">Analytics</text>
+    <rect x="310" y="0" width="150" height="42" rx="21" fill="#0F172A" stroke="#A78BFA"/>
+    <text x="338" y="27" fill="#DDD6FE">Full Stack</text>
+  </g>
+
+  <g transform="translate(692 238)" opacity="0.9">
+    <text x="0" y="0" fill="#94A3B8" font-family="Consolas, 'Fira Code', monospace" font-size="18">building useful systems with</text>
+    <text x="0" y="36" fill="#E2E8F0" font-family="Consolas, 'Fira Code', monospace" font-size="22">Python  TypeScript  SQL</text>
+  </g>
+</svg>
