@@ -38,29 +38,6 @@ I love to explore new tools and tech whilst building projects around them. My wo
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Somendran/enterprise-rag-assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Somendran&repo=enterprise-rag-assistant&theme=tokyonight&hide_border=true" alt="Enterprise RAG Assistant repo card" />
-</a>
-<a href="https://github.com/Somendran/Real-Time-E-commerce-Analytics-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Somendran&repo=Real-Time-E-commerce-Analytics-System&theme=tokyonight&hide_border=true" alt="Real-Time E-commerce Analytics System repo card" />
-</a>
-<a href="https://github.com/Somendran/BizKuKu-PayHack2025-Champion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Somendran&repo=BizKuKu-PayHack2025-Champion&theme=tokyonight&hide_border=true" alt="BizKuKu PayHack 2025 Champion repo card" />
-</a>
-<a href="https://github.com/Somendran/Buddyku">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Somendran&repo=Buddyku&theme=tokyonight&hide_border=true" alt="Buddyku repo card" />
-</a>
-<a href="https://github.com/Somendran/InsureKan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Somendran&repo=InsureKan&theme=tokyonight&hide_border=true" alt="InsureKan repo card" />
-</a>
-<a href="https://github.com/Somendran/WInTheChat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Somendran&repo=WInTheChat&theme=tokyonight&hide_border=true" alt="WInTheChat repo card" />
-</a>
-
-</div>
-
 | Project | What it is | Stack / Focus |
 | --- | --- | --- |
 | [Enterprise RAG Assistant](https://github.com/Somendran/enterprise-rag-assistant) | Retrieval-Augmented Generation assistant for uploading PDFs, indexing knowledge, asking grounded questions, and reviewing retrieved source context. | Python, FastAPI, React, RAG, FAISS |
@@ -116,10 +93,6 @@ I love to explore new tools and tech whilst building projects around them. My wo
 - Project focus: AI assistants, analytics systems, data pipelines, fintech dashboards, healthtech, trading tools, and full-stack product builds.
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Somendran&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Somendran's GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somendran&layout=compact&theme=tokyonight&hide_border=true" alt="Somendran's top languages" />
 
 ![GitHub contribution snake](https://raw.githubusercontent.com/Somendran/Somendran/output/github-contribution-grid-snake-dark.svg)
 
