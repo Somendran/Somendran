@@ -14,11 +14,18 @@
 
 ```txt
 > status: Fresh graduate looking for job opportunities
+> proof:  5-time hackathon winner
 > focus:  Data, AI, and full-stack project building
 > motto:  Explore new tools, learn fast, build useful projects
 ```
 
 I love to explore new tools and tech whilst building projects around them. My work usually sits around practical AI, data-driven systems, and full-stack applications that turn ideas into usable products.
+
+## Highlights
+
+- 5-time hackathon winner.
+- Fresh graduate looking for full-stack, data, and AI-focused opportunities.
+- Building across AI assistants, analytics systems, data pipelines, and full-stack products.
 
 ## Current Focus
 
